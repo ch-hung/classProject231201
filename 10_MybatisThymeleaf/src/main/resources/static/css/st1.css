@@ -1,0 +1,37 @@
+@charset "BIG5";
+
+#header {
+	background-color: #CD656F;
+	width: 50%;
+	height: 100px;
+	margin-left: 25%;
+
+}
+
+#title {
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 80px;
+}
+
+#navigater {
+
+	background-color: #FEECEC;
+	width: 50%;
+	height: 30px;
+	margin-left: 25%;
+}
+
+#content {
+	background-color: #D4C6C4;
+	width: 50%;
+	height: 600px;
+	margin-left: 25%;
+}
+
+#footer {
+	background-color: #CD656F;
+	width: 50%;
+	height: 50px;
+	margin-left: 25%;
+}
