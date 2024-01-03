@@ -13,4 +13,6 @@ Member login and register
 
 [INDEX](10_MybatisThymeleaf/src/main/resources/static/index.html)
 
-[](pic/test.png)
+![](pic/test.png)
+
+<img src="pic/test.png"/>
