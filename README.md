@@ -12,3 +12,5 @@ Member login and register
 [GOOGLE](https://www.google.com)
 
 [INDEX](10_MybatisThymeleaf/src/main/resources/static/index.html)
+
+![](pic/test.png)
