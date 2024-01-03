@@ -15,4 +15,4 @@ Member login and register
 
 ![](pic/test.png)
 
-<img src="pic/test.png"/>
+<img src="pic/test.png">
