@@ -6,3 +6,8 @@ Member login and register
 #### 4#
 ##### 5#
 ###### 6#
+
+<hr>
+
+[LINK] (https://www.google.com)
+[LINK] (10_MybatisThymeleaf/src/main/resources/static/index.html)
