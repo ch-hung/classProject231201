@@ -9,5 +9,5 @@ Member login and register
 
 <hr>
 
-[LINK] (https://www.google.com)
-[LINK] (10_MybatisThymeleaf/src/main/resources/static/index.html)
+[LINK](https://www.google.com)
+[LINK](10_MybatisThymeleaf/src/main/resources/static/index.html)
